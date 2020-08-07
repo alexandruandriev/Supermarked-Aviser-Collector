@@ -4,3 +4,5 @@
    chromedriver
 ### Version 1.0
    Available Shops: Rema100
+### Usage
+  run python main.py
